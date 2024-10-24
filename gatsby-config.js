@@ -15,7 +15,7 @@ module.exports = {
    */
    siteMetadata: {
     title: 'QL Tech',
-	siteUrl: 'https://www.qltech.com.au',
+	siteUrl: 'https://www.qltech.ae/',
 	description: `Web Development & Digital Marketing Services In Perth, Australia - QL Tech`,
     author: `@qltechau`,
   },
@@ -44,7 +44,7 @@ module.exports = {
         },     
         url:
           process.env.WPGRAPHQL_URL ||
-          `https://admin.qltech.com.au/graphql`,
+          `https://uae.qltech.ae/graphql`,
 		type: {
 			MediaItem: {
 				createFileNodes: false,
