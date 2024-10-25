@@ -24,6 +24,11 @@
           margin-top: 16px;
       }
 
+whatsapp_float:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
       /* for mobile */
       @media screen and (max-width: 767px) {
           .whatsapp-icon {
