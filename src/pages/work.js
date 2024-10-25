@@ -73,15 +73,15 @@ class FilterGrid extends React.Component {
       // Filter Buttons
 	  <Layout>
 	  	<Helmet>
-		<title>Our Work | Agile software & digital marketing company Perth, Australia- QL Tech</title>
-		<meta name="title" content="Our Work | Agile software & digital marketing company Perth, Australia- QL Tech"></meta>
+		<title>Our Work | Agile software & digital marketing company United Arab Emirates - QL Tech</title>
+		<meta name="title" content="Our Work | Agile software & digital marketing company United Arab Emirates - QL Tech"></meta>
 		<meta name="description" content="Our Clients speaks about Our works. QL Tech's web & digital marketing services team achieved for business numbers as yours. To know more, contact us @ +61 (0)8 6262 3559"></meta>
 		 <meta name="keywords" content="QL Tech works, Our works, Portfolio, QL tech portfolio, digital marketing works, Agile development, SEO services, case studies"></meta>
 		<meta property="og:type" content="website"></meta>
-		<meta property="og:title" content="Our Work | Agile software & digital marketing company Perth, Australia- QL Tech"></meta>
+		<meta property="og:title" content="Our Work | Agile software & digital marketing company United Arab Emirates - QL Tech"></meta>
 		<meta property="og:description" content="Our Clients speaks about Our works. QL Tech's web & digital marketing services team achieved for business numbers as yours. To know more, contact us @ +61 (0)8 6262 3559"></meta>
 		<meta property="twitter:card" content="summary_large_image"></meta>
-		<meta property="twitter:title" content="Our Work | Agile software & digital marketing company Perth, Australia- QL Tech"></meta>
+		<meta property="twitter:title" content="Our Work | Agile software & digital marketing company United Arab Emirates - QL Tech"></meta>
 		<meta property="twitter:description" content="Our Clients speaks about Our works. QL Tech's web & digital marketing services team achieved for business numbers as yours. To know more, contact us @ +61 (0)8 6262 3559"></meta>
 		</Helmet>
 	 <div className="bg">
