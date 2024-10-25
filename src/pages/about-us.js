@@ -14,8 +14,8 @@ import Particles from "react-tsparticles";
 const AboutPage = () => (
 	<Layout>
 		<Helmet>
-		<title>About US | Web development &amp; marketing agency Perth, Australia- QL Tech</title>
-		<meta name="title" content="About US | Web development &amp; marketing agency Perth, Australia- QL Tech"></meta>
+		<title>About US | Web development &amp; marketing agency United Arab Emirates - QL Tech</title>
+		<meta name="title" content="About US | Web development &amp; marketing agency  United Arab Emirates - QL Tech"></meta>
 		<meta name="description" content="QL Tech is Australia's leading web development company, specialized in offering custom web development, CRM Services, digital marketing solutions. To know more, contact us @ +61 (0)8 6262 3559"></meta>
 		 <meta name="keywords" content="QL Tech about us, about us, Mobile App Development, hubspot crm, marketing agency, Zoho crm service, content agency Perth"></meta>
 		<meta property="og:type" content="website"></meta>
