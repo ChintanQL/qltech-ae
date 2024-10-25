@@ -188,7 +188,7 @@ render (){
 		<div className="col-md-12 mt-3">
 		<ReCAPTCHA
 		ref={recaptchaRef}
-		sitekey="6LfliiwqAAAAACFOqWuUVddqUrHE2DQUbaxTRNKk"
+		sitekey="6LdYnWsqAAAAABGf_YFPGhnRH_ltZ3el9VrbJX9D"
 		/>
 		</div>
 		
