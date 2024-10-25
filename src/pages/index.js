@@ -29,15 +29,15 @@ const IndexPage = () => (
     <Layout>
     
         <Helmet>
-        <title>Web Development & Digital Marketing Services In Perth, Australia - QL Tech</title>
-        <meta name="title" content="Web Development & Digital Marketing Services In Perth, Australia - QL Tech"></meta>
+        <title>Web Development & Digital Marketing Services In United Arab Emirates  - QL Tech</title>
+        <meta name="title" content="Web Development & Digital Marketing Services In United Arab Emirates  - QL Tech"></meta>
         <meta name="description" content="QL Tech Is a Leading Digital Agency. Our Services Include Web Development, Wordpress Development, Website Design, Infusionsoft, Social Media Marketing & SEO. Get Assured Leads & Sales Ensuring amplified ROI For Your Business Through PPC, Content Marketing & More In Perth, Australia"></meta>
          <meta name="keywords" content="Web development services, infusionsoft service, zoho crm service, digital marketing services, wordpress development, seo services, web design services, social media marketing, graphic design, magento development company"></meta>
         <meta property="og:type" content="website"></meta>
-        <meta property="og:title" content="Web Development & Digital Marketing Services In Perth, Australia - QL Tech"></meta>
+        <meta property="og:title" content="Web Development & Digital Marketing Services In United Arab Emirates  - QL Tech"></meta>
         <meta property="og:description" content="QL Tech Is a Leading Digital Agency. Our Services Include Web Development, Wordpress Development, Website Design, Infusionsoft, Social Media Marketing & SEO. Get Assured Leads & Sales Ensuring amplified ROI For Your Business Through PPC, Content Marketing & More In Perth, Australia"></meta>
         <meta property="twitter:card" content="summary_large_image"></meta>
-        <meta property="twitter:title" content="Web Development & Digital Marketing Services In Perth, Australia - QL Tech"></meta>
+        <meta property="twitter:title" content="Web Development & Digital Marketing Services In United Arab Emirates  - QL Tech"></meta>
         <meta property="twitter:description" content="QL Tech Is a Leading Digital Agency. Our Services Include Web Development, Wordpress Development, Website Design, Infusionsoft, Social Media Marketing & SEO. Get Assured Leads & Sales Ensuring amplified ROI For Your Business Through PPC, Content Marketing & More In Perth, Australia"></meta>
         </Helmet>
         
