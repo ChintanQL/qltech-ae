@@ -19,15 +19,15 @@ import WorkCulture from '../img/career/Work-Culture.png'
 const CareerPage = () => (
 	<Layout>
 		<Helmet>
-		<title>Careers | Web Design & Development Company Perth, Australia- QL Tech</title>
-		<meta name="title" content="Careers | Web Design & Development Company Perth, Australia- QL Tech"></meta>
+		<title>Careers | Web Design & Development Company  United Arab Emirates - QL Tech</title>
+		<meta name="title" content="Careers | Web Design & Development Company P United Arab Emirates - QL Tech"></meta>
 		<meta name="description" content="Join and explore your skills with 100% employee satisfaction. If you think you fit, fill the form and be the most talented web and mobile app developers of QL Tech, Perth."></meta>
 		 <meta name="keywords" content="Looking for career opportunities, career goals, career job, ql tech job, dream job, web design job, mobile app job, digital marketing agency, job at ql tech"></meta>
 		<meta property="og:type" content="website"></meta>
-		<meta property="og:title" content="Careers | Web Design & Development Company Perth, Australia- QL Tech"></meta>
+		<meta property="og:title" content="Careers | Web Design & Development Company Perth,  United Arab Emirates "></meta>
 		<meta property="og:description" content="Join and explore your skills with 100% employee satisfaction. If you think you fit, fill the form and be the most talented web and mobile app developers of QL Tech, Perth."></meta>
 		<meta property="twitter:card" content="summary_large_image"></meta>
-		<meta property="twitter:title" content="Careers | Web Design & Development Company Perth, Australia- QL Tech"></meta>
+		<meta property="twitter:title" content="Careers | Web Design & Development Company  United Arab Emirates - QL Tech"></meta>
 		<meta property="twitter:description" content="Join and explore your skills with 100% employee satisfaction. If you think you fit, fill the form and be the most talented web and mobile app developers of QL Tech, Perth."></meta>
 		</Helmet>
 		<div className="bg">
