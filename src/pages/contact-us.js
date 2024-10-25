@@ -107,21 +107,7 @@ const IndexPage = () => (
 							</div>
 						</div>
 						
-						<div className="col-md-5 mb-4  d-flex">
-								<div className="card">
-									<div className="row">
-										<div className="col-lg-12 mb-4">
-											<iframe className="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.9942814275378!2d72.5655622145081!3d23.023982184952448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e84fcf0805947%3A0x5a6d3c9ec65ad9b8!2sQL%20Tech%20%C2%BB%20Web%20Design%20%26%20SEO%20Marketing%20Company!5e0!3m2!1sen!2sin!4v1570855705668!5m2!1sen!2sin" width="600" height="450" frameborder="0"  allowfullscreen=""></iframe>
-										</div>
-										<div className="col-lg-12 text-left">
-											<div className="card-body">
-												<p className="card-title mb-1">India Office</p>
-												<p className="label-text">1208, Phoenix, Vijay Cross Rd, opp. Andhra Bank, Navrangpura, Ahmedabad, Gujarat 380009</p>
-											</div>
-										</div>
-									</div>
-								</div>
-						</div>
+						
 					</div>
 				</div>
 			</div>
