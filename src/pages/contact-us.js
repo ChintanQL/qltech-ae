@@ -86,7 +86,7 @@ const IndexPage = () => (
 		<section className="contact-us-section-3">
 			<div className="container">
 				<div className="main-panel">
-					<h2 className="section-heading-2 mb-4  pb-4 text-center">Our Offices</h2>
+					<h2 className="section-heading-2 mb-4  pb-4 text-center">Our Office</h2>
 					<div className="row justify-content-center">
 						<div className="col-md-5 mb-4 d-flex">
 							<div className="card">
@@ -94,12 +94,12 @@ const IndexPage = () => (
 									<div className="col-lg-12 mb-4">
 											
 											
-											<iframe className="map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13540.757186424815!2d115.8591542!3d-31.9557609!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4c57bca413365250!2sQL%20Tech!5e0!3m2!1sen!2sau!4v1573473327100!5m2!1sen!2sau" width="600" height="450" frameborder="0"  allowfullscreen=""></iframe>
+											<iframe className="map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14384.753515279004!2d55.7862283!3d25.6650494!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5c58b2c7313a7%3A0x5f33458fe1260dcc!2sPackme%20Mena%20Fz%20LLC%2C%20Compass%20Building%20%2CAl%20Shohada%20Road%20AL%20Hamra%20Industrial%20Zone-FZ%20-%20Ras%20al%20Khaimah!5e0!3m2!1sen!2sin!4v1729601792459!5m2!1sen!2sin" width="600" height="450" frameborder="0"  allowfullscreen=""></iframe>
 									</div>
 									<div className="col-lg-12 text-left">
 										<div className="card-body">
-											<p className="card-title mb-1">Australia Office (Headquarters)</p>
-											<p className="label-text">45 St Georges Terrace, Ground Floor, Perth, 6000</p>
+											<p className="card-title mb-1">United Arab Emirates Office (Headquarters)</p>
+											<p className="label-text">FOAM1573, Compass Building, Al Shohada Road, AL Hamra Industrial Zone-FZ, Ras Al Khaimah, United Arab Emirates</p>
 											
 										</div>
 									</div>
