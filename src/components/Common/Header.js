@@ -70,7 +70,7 @@ class Header extends Component {
 		 const cookies = new Cookies();
 		 if (checkBox.checked == true){
 			 console.log("here");	
-			 cookies.set('Popup', "1", { domain: '.qltech.com.au' , path: '/' , maxAge: 1000000});
+			 cookies.set('Popup', "1", { domain: '.qltech.ae' , path: '/' , maxAge: 1000000});
 			this.setState({
 				isOpen:false,
 			})
