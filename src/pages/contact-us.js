@@ -11,15 +11,15 @@ import Particles from "react-tsparticles";
 const IndexPage = () => (
 	<Layout>
 		<Helmet>
-		<title>Contact Us | Web design & Marketing agency Perth, Australia- QL Tech</title>
-		<meta name="title" content="Contact Us | Web design & Marketing agency Perth, Australia- QL Tech"></meta>
+		<title>Contact Us | Web design & Marketing agency United Arab Emirates - QL Tech</title>
+		<meta name="title" content="Contact Us | Web design & Marketing agency  United Arab Emirates - QL Tech"></meta>
 		<meta name="description" content="Join hands with QL Tech helpdesk support for long term association and If you have any query, Please fills below contact us form or drop us an email. We promise to get back to you in a few hours."></meta>
 		 <meta name="keywords" content="contact ql tech, ql tech contact page, contact ql perth, web design contact company, perth marketing agency, social media marketing agency, crm business consultant, help desk ql tech"></meta>
 		<meta property="og:type" content="website"></meta>
-		<meta property="og:title" content="Contact Us | Web design & Marketing agency Perth, Australia- QL Tech"></meta>
+		<meta property="og:title" content="Contact Us | Web design & Marketing agency United Arab Emirates - QL Tech"></meta>
 		<meta property="og:description" content="Join hands with QL Tech helpdesk support for long term association and If you have any query, Please fills below contact us form or drop us an email. We promise to get back to you in a few hours."></meta>
 		<meta property="twitter:card" content="summary_large_image"></meta>
-		<meta property="twitter:title" content="Contact Us | Web design & Marketing agency Perth, Australia- QL Tech"></meta>
+		<meta property="twitter:title" content="Contact Us | Web design & Marketing agency United Arab Emirates - QL Tech"></meta>
 		<meta property="twitter:description" content="Join hands with QL Tech helpdesk support for long term association and If you have any query, Please fills below contact us form or drop us an email. We promise to get back to you in a few hours."></meta>
 		</Helmet>
 		<div className="bg">
