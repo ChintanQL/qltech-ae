@@ -150,7 +150,7 @@ identify(identifyObj);
 
 			axios({
 			  method: 'post',
-			  url: 'https://steamlinedesign.com/qltech/formbucket/',
+			  url: 'https://steamlinedesign.com/qltech/formbucket/uae.php',
 			  data: payload, // you are sending body instead
 			  headers: {
 			   // 'Authorization': `bearer ${token}`,
