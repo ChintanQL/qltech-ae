@@ -129,14 +129,14 @@ class ContactWorksheet extends React.Component{
 
 			axios({
 			  method: 'post',
-			  url: 'https://steamlinedesign.com/qltech/formbucket/',
+			  url: 'https://steamlinedesign.com/qltech/formbucket/uae.php',
 			  data: payload, // you are sending body instead
 			  headers: {
 			   // 'Authorization': `bearer ${token}`,
 			  'Content-Type': 'multipart/form-data'
 			  }, 
 			}).then(function(response) {
-			window.location.href = "https://www.qltech.com.au/thank-you/";
+			window.location.href = "https://www.qltech.ae/thank-you/";
 		    });		
 		}
 	  } else {
