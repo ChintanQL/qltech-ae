@@ -27,8 +27,9 @@ class Grid extends React.Component {
 		return(
 			<Layout>
 			<Helmet>
-				<title>Worksheet | Improve Work Efficiency with Worksheet  - QL Tech</title>
-				<meta name="title" content="Worksheet | Improve Work Efficiency with Worksheet  - QL Tech"></meta>
+				<title>Worksheet | Improve Work Efficiency with Worksheet - QL Tech</title>
+				<meta name="title" content="Worksheet | Improve Work Efficiency with Worksheet - QL Tech"></meta>
+			<meta name="description" content="QL Tech is a Leading Digital Marketing Agency. Our Services Include Web Development, Website Design, CRM Services, Social Media Marketing & SEO. Get Assured Leads & Sales Ensuring amplified ROI For Your Business Through PPC, Content Marketing & More In Dubai, Abu Dhabi, UAE."></meta>
 			</Helmet>
 			<div className="bg">
         <div className="area-bg">
