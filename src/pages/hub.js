@@ -32,6 +32,8 @@ const kh = () => (
 			<Helmet>
 				<title>Knowledge Hub | Discover the knowledge Insights - QL Tech</title>
 				<meta name="title" content="Knowledge Hub | Discover the knowledge Insights - QL Tech"></meta>
+<meta name="description" content="Get the latest updates and trends at QL Tech knowledge hub, UAE,Dubai,Abu Dhabi"></meta>
+	    
 			</Helmet>
 			<div className="bg">
         <div className="area-bg">
