@@ -14,16 +14,16 @@ import Particles from "react-tsparticles";
 const AboutPage = () => (
 	<Layout>
 		<Helmet>
-		<title>About US | Web development &amp; marketing agency United Arab Emirates - QL Tech</title>
-		<meta name="title" content="About US | Web development &amp; marketing agency  United Arab Emirates - QL Tech"></meta>
-		<meta name="description" content="QL Tech is Australia's leading web development company, specialized in offering custom web development, CRM Services, digital marketing solutions. To know more, contact us @ +61 (0)8 6262 3559"></meta>
+		<title>About US | Web development & marketing agency UAE, Abu Dhabi, Dubai- QL Tech</title>
+		<meta name="title" content="About US | Web development & marketing agency UAE, Abu Dhabi, Dubai- QL Tech"></meta>
+		<meta name="description" content="QL Tech is Australia's leading web development company, specialized in offering custom web development, CRM Services, digital marketing solutions. To know more, contact us @ +971 58 924 6249"></meta>
 		 <meta name="keywords" content="QL Tech about us, about us, Mobile App Development, hubspot crm, marketing agency, Zoho crm service, content agency Perth"></meta>
 		<meta property="og:type" content="website"></meta>
-		<meta property="og:title" content="About US | Web development &amp; marketing agency  United Arab Emirates - QL Tech"></meta>
-		<meta property="og:description" content="QL Tech is Australia's leading web development company, specialized in offering custom web development, CRM Services, digital marketing solutions. To know more, contact us @ +61 (0)8 6262 3559"></meta>
+		<meta property="og:title" content="About US | Web development & marketing agency UAE, Abu Dhabi, Dubai- QL Tech"></meta>
+		<meta property="og:description" content="QL Tech is Australia's leading web development company, specialized in offering custom web development, CRM Services, digital marketing solutions. To know more, contact us @ +971 58 924 6249"></meta>
 		<meta property="twitter:card" content="summary_large_image"></meta>
-		<meta property="twitter:title" content="About US | Web development &amp; marketing agency  United Arab Emirates - QL Tech"></meta>
-		<meta property="twitter:description" content="QL Tech is Australia's leading web development company, specialized in offering custom web development, CRM Services, digital marketing solutions. To know more, contact us @ +61 (0)8 6262 3559"></meta>
+		<meta property="twitter:title" content="About US | Web development & marketing agency UAE, Abu Dhabi, Dubai- QL Tech"></meta>
+		<meta property="twitter:description" content="QL Tech is Australia's leading web development company, specialized in offering custom web development, CRM Services, digital marketing solutions. To know more, contact us @ +971 58 924 6249"></meta>
 		</Helmet>
 		<div className="bg">
         <div className="area-bg">
