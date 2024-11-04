@@ -19,7 +19,7 @@ class Singlecategory extends Component {
       <Layout>
 	  
 			<Helmet>
-				<title>{posts.edges[0].node.categories.nodes[0].name} Articles - QL Tech</title>
+				<title>{posts.edges[0].node.categories.nodes[0].name} Articles - QL Tech - Dubai, Abu Dhabi, UAE</title>
 			</Helmet>
 			<div className="bg">
         <div className="area-bg">
