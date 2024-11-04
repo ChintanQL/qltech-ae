@@ -20,6 +20,7 @@ class Singlecategory extends Component {
 	  
 			<Helmet>
 				<title>{posts.edges[0].node.categories.nodes[0].name} Articles - QL Tech - Dubai, Abu Dhabi, UAE</title>
+	<meta name="description" content="QL Tech is a Leading Digital Marketing Agency. Our Services Include Web Development, Website Design, CRM Services, Social Media Marketing & SEO. Get Assured Leads & Sales Ensuring amplified ROI For Your Business Through PPC, Content Marketing & More In Dubai, Abu Dhabi, UAE."></meta>
 			</Helmet>
 			<div className="bg">
         <div className="area-bg">
