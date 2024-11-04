@@ -43,6 +43,8 @@ class demopage extends Component {
 			<Helmet>
 				<title>Articles | Share latest Trending Ideas in Articles - QL Tech</title>
 				<meta name="title" content="Articles | Share latest Trending Ideas in Articles - QL Tech"></meta>
+	  <meta name="description" content=" Get the latest trends in technology and marketing in UAE, Dubai, Abu Dhabi"></meta>
+	   
 			</Helmet>
 				<div className="bg">
         <div className="area-bg">
