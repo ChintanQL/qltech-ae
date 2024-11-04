@@ -43,7 +43,7 @@ class Singleblog extends Component {
     return (
       <Layout>
 		<Helmet>
-		<title>{blog.edges[0].node.yoastseo.title} | QL Tech, Australia</title>
+		<title>{blog.edges[0].node.yoastseo.title} | QL Tech, UAE Dubai</title>
 		<meta name="title" content={blog.edges[0].node.yoastseo.title}></meta>
 		<meta name="description" content={blog.edges[0].node.yoastseo.metadesc}></meta>
 		 <meta name="keywords" content={blog.edges[0].node.yoastseo.metakeywords}></meta>
