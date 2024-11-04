@@ -36,15 +36,11 @@ class Header extends Component {
 		
 		const cookies = new Cookies();
 		if(cookies.get("Popup") == undefined){
-			this.setState({
-				isOpen:true,
-			})
+			
 		}
 		else{
 			if(cookies.get("Popup") == 0){
-				this.setState({
-					isOpen:true,
-				})
+				
 			}
 			
 		}
