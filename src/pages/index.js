@@ -29,16 +29,15 @@ const IndexPage = () => (
     <Layout>
     
         <Helmet>
-        <title>Web Development & Digital Marketing Services Dubai, Abu Dhabi UAE - QL Tech</title>
-        <meta name="title" content="Web Development & Digital Marketing Services Dubai, Abu Dhabi UAE - QL Tech"></meta>
-        <meta name="description" content="QL Tech is a Leading Digital Marketing Agency. Our Services Include Web Development, Website Design, CRM Services, Social Media Marketing & SEO. Get Assured Leads & Sales Ensuring amplified ROI For Your Business Through PPC, Content Marketing & More In Dubai, Abu Dhabi, UAE."></meta>
+        <title>Web Development & Digital Marketing Agency Dubai, Abu Dhabi, UAE</title>
+        <meta name="title" content="QL Tech is a Leading Web Development Agency & Digital Marketing Agency Dubai. Our Services Include Web Development, Website Design, CRM Services, Social Media Marketing & SEO. Get Assured Leads & Sales Ensuring amplified ROI For Your Business Through PPC, Content Marketing &amp; More In Dubai, Abu Dhabi, UAE."></meta>
          <meta name="keywords" content="web design firms, Web Design Agency, Web Design Compnay"></meta>
         <meta property="og:type" content="website"></meta>
-        <meta property="og:title" content="Web Development & Digital Marketing Services Dubai, Abu Dhabi UAE - QL Tech"></meta>
-        <meta property="og:description" content="QL Tech is a Leading Digital Marketing Agency. Our Services Include Web Development, Website Design, CRM Services, Social Media Marketing & SEO. Get Assured Leads & Sales Ensuring amplified ROI For Your Business Through PPC, Content Marketing & More In Dubai, Abu Dhabi, UAE."></meta>
+        <meta property="og:title" content="Web Development & Digital Marketing Agency Dubai, Abu Dhabi, UAE"></meta>
+        <meta property="og:description" content="QL Tech is a Leading Web Development Agency & Digital Marketing Agency Dubai. Our Services Include Web Development, Website Design, CRM Services, Social Media Marketing & SEO. Get Assured Leads & Sales Ensuring amplified ROI For Your Business Through PPC, Content Marketing &amp; More In Dubai, Abu Dhabi, UAE."></meta>
         <meta property="twitter:card" content="summary_large_image"></meta>
-        <meta property="twitter:title" content="Web Development & Digital Marketing Services Dubai, Abu Dhabi UAE - QL Tech"></meta>
-        <meta property="twitter:description" content="QL Tech is a Leading Digital Marketing Agency. Our Services Include Web Development, Website Design, CRM Services, Social Media Marketing & SEO. Get Assured Leads & Sales Ensuring amplified ROI For Your Business Through PPC, Content Marketing & More In Dubai, Abu Dhabi, UAE."></meta>
+        <meta property="twitter:title" content="Web Development & Digital Marketing Agency Dubai, Abu Dhabi, UAE"></meta>
+        <meta property="twitter:description" content="QL Tech is a Leading Web Development Agency & Digital Marketing Agency Dubai. Our Services Include Web Development, Website Design, CRM Services, Social Media Marketing & SEO. Get Assured Leads & Sales Ensuring amplified ROI For Your Business Through PPC, Content Marketing &amp; More In Dubai, Abu Dhabi, UAE."></meta>
         </Helmet>
         
         <div className="bg">
