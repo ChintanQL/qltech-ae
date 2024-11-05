@@ -344,7 +344,7 @@ class FilterGrid extends React.Component {
 						/>
 						<p class="inf_cl_p">Feel free to contact us on </p>
 						<h5 class="inf_cl"> <b>Email : <a href="mailto:sales@qltech.com.au" >sales@qltech.com.au</a></b></h5>
-						<h5 class="inf_cl" > <b>Phone : +971 58 924 6249 (UAE)</b></h5>
+						<h5 class="inf_cl" > <b>Phone : +61 4 0405 4124 (UAE)</b></h5>
 					</div>
 					<div class="col-lg-6 col-6 col-md-12">
 					<Webcontact />
