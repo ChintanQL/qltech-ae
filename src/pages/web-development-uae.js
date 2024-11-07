@@ -140,7 +140,7 @@ class FilterGrid extends React.Component {
 
 			axios({
 			  method: 'post',
-			  url: 'https://admin.qltech.com.au/wp-json/new_ql/v1/mail_web',
+			  url: 'https://uae.qltech.ae/wp-json/new_ql/v1/mail_web',
 			  data: payload, // you are sending body instead
 			 
 			}).then(function(response) {
