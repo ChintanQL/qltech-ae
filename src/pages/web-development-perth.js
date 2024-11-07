@@ -197,7 +197,7 @@ class FilterGrid extends React.Component {
 			<div className="container text-center">
 				<span className="section-subheading-heading">Professional Website Creation</span> 
 				<h1 className="section-heading">
-            Customized web solutions at competitive prices in UAE
+            Customized web solutions at competitive prices in Perth Australia
 				</h1>
 				<ul className="breadcrumbs">
 					<li> <Link to="/">Home</Link> \</li>
