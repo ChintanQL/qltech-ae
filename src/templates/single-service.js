@@ -174,7 +174,7 @@ class Singleservice extends Component {
 												
 												
 												<div className="clear-fix py-4">
-													<Link to="/schedule-a-call/" className="btn btn-secondary-link  float-left">Schedule a call <i className="fa fa-long-arrow-right ml-1"></i></Link>
+													<Link to="/schedule-a-call/" className="btn btn-default">Schedule a call <i className="fa fa-long-arrow-right ml-1"></i></Link>
 													
 												</div>
 											</div>
