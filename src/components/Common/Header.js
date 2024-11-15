@@ -188,10 +188,10 @@ class Header extends Component {
                         <a target="_blank" href="mailto:support@qltech.com.au"><i className="fa fa-envelope  mr-2"></i><span className="d-none d-md-inline">Send Email</span></a>
                     </li>
                     <li>
-                        <a target="_blank" href="https://www.facebook.com/QLTechAU/" className=""><i className="fa fa-facebook"></i></a>
+                        <a target="_blank" href="https://www.facebook.com/QLTechUAE" className=""><i className="fa fa-facebook"></i></a>
                     </li>
                     <li>
-                        <a target="_blank" href="https://www.linkedin.com/company/qltechau" className=""><i className="fa fa-linkedin"></i></a>
+                        <a target="_blank" href="https://www.linkedin.com/company/qltechuae/" className=""><i className="fa fa-linkedin"></i></a>
                     </li>
                    
                 </ul>
