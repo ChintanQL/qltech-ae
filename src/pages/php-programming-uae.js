@@ -175,16 +175,16 @@ class FilterGrid extends React.Component {
       // Filter Buttons
 	  <Layout>
 	  	<Helmet>
-		<title>Web Development Services Dubai | Web Development Agency UAE - QL Tech</title>
-		<meta name="title" content="Web Development Services Dubai | Web Development Agency UAE - QL Tech"></meta>
-		<meta name="description" content="We develop stunning websites tailored to businesses' unique needs. With our understanding of the digital landscape, empower your brand to establish a strong online presence."></meta>
-		 <meta name="keywords" content="Websites, digital, businesses' unique needs, web solutions, functional websites, Web development in UAE, website developers"></meta>
+		<title>PHP Programming Services in UAE | Expert PHP Developers | Web Development Agency UAE - QL Tech</title>
+		<meta name="title" content="PHP Programming Services in UAE | Expert PHP Developers | Web Development Agency UAE - QL Tech"></meta>
+		<meta name="description" content="Looking for PHP programming services in the UAE? Our expert PHP developers offer custom solutions for businesses, including website development, eCommerce platforms, and web applications. Contact us for professional PHP development in UAE."></meta>
+		 <meta name="keywords" content="PHP programming UAE, PHP development UAE, PHP developers UAE, web development UAE, custom PHP solutions UAE, PHP web development UAE, PHP application development UAE"></meta>
 		<meta property="og:type" content="website"></meta>
-		<meta property="og:title" content="Web Development Services Dubai | Web Development Agency UAE - QL Tech"></meta>
-		<meta property="og:description" content="We develop stunning websites tailored to businesses' unique needs. With our understanding of the digital landscape, empower your brand to establish a strong online presence."></meta>
+		<meta property="og:title" content="PHP Programming Services in UAE | Expert PHP Developers | Web Development Agency UAE - QL Tech"></meta>
+		<meta property="og:description" content="Looking for PHP programming services in the UAE? Our expert PHP developers offer custom solutions for businesses, including website development, eCommerce platforms, and web applications. Contact us for professional PHP development in UAE."></meta>
 		<meta property="twitter:card" content="summary_large_image"></meta>
-		<meta property="twitter:title" content="Web Development Services Dubai | Web Development Agency UAE - QL Tech"></meta>
-		<meta property="twitter:description" content="We develop stunning websites tailored to businesses' unique needs. With our understanding of the digital landscape, empower your brand to establish a strong online presence."></meta>
+		<meta property="twitter:title" content="PHP Programming Services in UAE | Expert PHP Developers | Web Development Agency UAE - QL Tech"></meta>
+		<meta property="twitter:description" content="Looking for PHP programming services in the UAE? Our expert PHP developers offer custom solutions for businesses, including website development, eCommerce platforms, and web applications. Contact us for professional PHP development in UAE."></meta>
 	
 	    </Helmet>
 	 <div className="bg">
