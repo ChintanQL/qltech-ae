@@ -472,7 +472,7 @@ FilterGrid.propTypes = {
   }),
 }
 
-const WC = () => (
+const PPU = () => (
 	
 	<StaticQuery
     query = {graphql`
@@ -514,6 +514,6 @@ const WC = () => (
 	
 )
 
-export default WC
+export default PPU
 
 
