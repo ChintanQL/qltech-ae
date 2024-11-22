@@ -218,7 +218,7 @@ class FilterGrid extends React.Component {
 							
 							<p>Unlock the full potential of your online presence with our expert PHP development services in the UAE. Our team of skilled PHP developers specializes in creating dynamic websites, powerful web applications, and robust e-commerce platforms tailored to your business needs. Whether you're looking to build a custom content management system, integrate advanced features, or create a seamless user experience, we offer end-to-end solutions that drive results. With years of experience serving businesses across the UAE, we deliver high-quality, scalable PHP solutions that ensure your business stands out in the digital world. Reach out today to discuss how we can help you grow and innovate with PHP development!</p>
 							
-							<a href="javascript:;" onClick={() => this.handleModalOpen()}  class="btn-default border-0 btn-sub wi-auto" >Contact Us</a>
+							<a href="javascript:;" onClick={() => this.handleModalOpen()}  class="btn-default border-0 btn-sub wi-auto" >Get A Free Quote</a>
 							
 							
 							
