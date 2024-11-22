@@ -197,7 +197,7 @@ class FilterGrid extends React.Component {
 			<div className="container text-center">
 				<span className="section-subheading-heading">Top PHP Development Services in the UAE</span> 
 				<h1 className="section-heading">
-            Custom PHP Development for Websites, Applications, and E-Commerce – Tailored for Your Business Needs in the UAE
+           Top PHP Development Services in the UAE: Build Powerful Digital Solutions
 				</h1>
 				<ul className="breadcrumbs">
 					<li> <Link to="/">Home</Link> \</li>
@@ -210,7 +210,7 @@ class FilterGrid extends React.Component {
 			<div class="main-panel">
 				<div class="row">
 					<div class="col-12">
-						<h2 class="section-heading text-center mb-5">Top PHP Development Services in the UAE: Build Powerful Digital Solutions</h2>
+						<h2 class="section-heading text-center mb-5"> Custom PHP Development for Websites, Applications, and E-Commerce – Tailored for Your Business Needs in the UAE</h2>
 						
 					</div>
 					<div class="col-12">
