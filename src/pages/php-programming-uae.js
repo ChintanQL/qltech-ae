@@ -210,13 +210,13 @@ class FilterGrid extends React.Component {
 			<div class="main-panel">
 				<div class="row">
 					<div class="col-12">
-						<h2 class="section-heading text-center mb-5">asasasas</h2>
+						<h2 class="section-heading text-center mb-5">Top PHP Development Services in the UAE: Build Powerful Digital Solutions</h2>
 						
 					</div>
 					<div class="col-12">
 						<div class="row justify-content-center">
 							
-							
+							<p>Unlock the full potential of your online presence with our expert PHP development services in the UAE. Our team of skilled PHP developers specializes in creating dynamic websites, powerful web applications, and robust e-commerce platforms tailored to your business needs. Whether you're looking to build a custom content management system, integrate advanced features, or create a seamless user experience, we offer end-to-end solutions that drive results. With years of experience serving businesses across the UAE, we deliver high-quality, scalable PHP solutions that ensure your business stands out in the digital world. Reach out today to discuss how we can help you grow and innovate with PHP development!</p>
 							
 							
 							
