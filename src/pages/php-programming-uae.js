@@ -195,13 +195,13 @@ class FilterGrid extends React.Component {
 		<section className="breadcumbs-and-title-section tpbg">
 			
 			<div className="container text-center">
-				<span className="section-subheading-heading">Professional Website Creation</span> 
+				<span className="section-subheading-heading">Top PHP Development Services in the UAE</span> 
 				<h1 className="section-heading">
-            Customized web solutions at competitive prices in UAE
+            Custom PHP Development for Websites, Applications, and E-Commerce – Tailored for Your Business Needs in the UAE
 				</h1>
 				<ul className="breadcrumbs">
 					<li> <Link to="/">Home</Link> \</li>
-					<li>Professional Website Creation</li>
+					<li>Top PHP Development Services in the UAE</li>
 				</ul>
 			</div>
 		</section>
