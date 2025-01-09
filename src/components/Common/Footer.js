@@ -100,7 +100,7 @@ const Footer = () => (
 	<div className="col-md-3 text-center"></div>				
 	<div className="col-md-2 text-center"> 
 					
-							<img class="glogo" src="https://www.foundsm.com/wp-content/uploads/2022/01/Meta-Business-Partner-Logo.jpg.webp"/>
+							<img class="glogo" src="https://www.foundsm.com/hs-fs/hubfs/FoundSM_November_2024/Images/Meta-Business-Partner.png?width=326&height=195&name=Meta-Business-Partner.png"/>
 						
 					
 					</div>
